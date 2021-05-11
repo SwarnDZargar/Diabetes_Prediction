@@ -26,6 +26,5 @@ print("Intercept: ", model.intercept_)
 
 # plt.scatter(diabetes_X_test, diabetes_y_test)
 # plt.plot(diabetes_X_test, diabetes_y_predicted)
-#
 # plt.show()
 
